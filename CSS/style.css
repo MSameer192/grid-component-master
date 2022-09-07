@@ -5,6 +5,7 @@ body {
 
 #my-container {
     margin-top: 20vh;
+    margin-bottom: 20vh;
     width: 620px;
 
 }
@@ -13,7 +14,7 @@ body {
     background-color: white;
     height: 230px;
     padding: 5%;
-    line-height: 2;
+    line-height: 1.5;
 }
 
 .second-container {
